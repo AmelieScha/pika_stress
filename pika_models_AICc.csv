@@ -1,0 +1,10 @@
+"Candidate_Formulas","AICc"
+"GCM_LOG ~ DOY_Z + DOY2_Z + (1|Station) + (1|Date)",161.252029352462
+"GCM_LOG ~ DOY_Z + DOY2_Z + Male + (1|Station) + (1|Date)",159.399612278292
+"GCM_LOG ~ DOY_Z + DOY2_Z + Elev_Z + (1|Station) + (1|Date)",166.178627544056
+"GCM_LOG ~ DOY_Z + DOY2_Z + Male + Elev_Z + (1|Station) + (1|Date)",164.850335114609
+"GCM_LOG ~ DOY2_Z + Elev_Z + DOY2_Z:Elev_Z + (1|Station) + (1|Date)",178.210131996132
+"GCM_LOG ~ DOY_Z + DOY2_Z + Aspect_COS + (1|Station) + (1|Date)",166.181275273962
+"GCM_LOG ~ DOY_Z + DOY2_Z + Male + Aspect_COS + (1|Station) + (1|Date)",164.667868651731
+"GCM_LOG ~ DOY2_Z + Site + DOY2_Z:Site + (1|Station) + (1|Date)",180.463465208352
+"GCM_LOG ~ DOY_Z + DOY2_Z + Male + Site + (1|Station) + (1|Date)",166.010184968573
